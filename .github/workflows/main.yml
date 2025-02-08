@@ -1,0 +1,8 @@
+name: praveen
+on: workflow_dispatch
+jobs:
+  testing:
+    runs on: ubuntu-latest
+    steps: 
+      name: testing workflow
+      run: echo "workflow works"
