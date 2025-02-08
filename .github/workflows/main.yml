@@ -1,7 +1,7 @@
 name: praveen
 on: workflow_dispatch
 jobs:
-  testing:
+  Testing:
     runs on: ubuntu-latest
     steps: 
         name: Testing workflow
